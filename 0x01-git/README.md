@@ -1,1 +1,1 @@
-echo "#alx-pre_course"
+echo "alx-pre_course"
